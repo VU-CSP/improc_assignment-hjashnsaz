@@ -21,7 +21,7 @@ A3) Put your answer here.
 Open the file [Fluorescence_composite.tif](image_files/Fluorescence_composite.tif) and convert all the signal in the red channel to the blue channel, export the file as a JPG and upload it to this repository in the [image_files](image_files) directory with the name "Composite.jpg".  
 
 The file should automatically show below when uploaded correctly and this file is viewed on GitHub.  
-![](image_files/Composite.jpg)  
+![](image_files/Composite.tif)  
 
 #### *Task 3:*  
 Segment the nuclei in the [22946173.tif](image_files/22946173.tif) file and Analyze/Analyze Particles with size (pixel^2) 20–500, Circularity 0.5–1, and Show Count Masks as show in the image below. (Check "Display results", "Clear results", "Summarize", and "Exclude on edges".)  
